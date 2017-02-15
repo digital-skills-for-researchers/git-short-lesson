@@ -1,17 +1,24 @@
 git-novice
-==========
+==========================
 
-An introduction to version control for novices using Git.
-Please see <https://swcarpentry.github.io/git-novice/> for a rendered version of this material,
-[the lesson template documentation][lesson-example]
-for instructions on formatting, building, and submitting material,
-or run `make` in this directory for a list of helpful commands.
+An introduction to Version Control with Git.  
+Please see <https://digital-skills-for-researchers-pd.github.io/git-short-lesson/> for a rendered version of this material.
 
-Maintainers:
 
-* [Ivan Gonzalez][gonzalez_ivan]
-* [Daisie Huang][huang_daisie]
+## Community
 
-[gonzalez_ivan]: http://software-carpentry.org/team/#gonzalez_ivan
-[huang_daisie]: http://software-carpentry.org/team/#huang_daisie
-[lesson-example]: https://swcarpentry.github.io/lesson-example
+You can find us on [Slack](https://digital-skills-2017.slack.com/)!
+
+Email one of the team to request an invite:
+
+- Fabiana Kubke [f.kubke@auckland.ac.nz](mailto:"f.kubke@auckland.ac.nz")
+- Anthony Jarvis [a.jarvis@auckland.ac.nz](mailto:"a.jarvis@auckland.ac.nz")
+- Manish Kukreja [mkuk073@aucklanduni.ac.nz](mailto:"mkuk073@aucklanduni.ac.nz")
+- Neil Birrell [nbir012@aucklanduni.ac.nz](mailto:"nbir012@aucklanduni.ac.nz")
+
+
+
+## Attributions
+
+Material adapted from [Git Lesson](https://github.com/swcarpentry/git-novice) by Software Carpentry Foundation  
+Logo Credit: [Crash Test Dummy](https://thenounproject.com/term/crash-test-dummy/4954/) by Luis Prado from the Noun Project
